@@ -1,0 +1,1 @@
+use remove of the list to replace the deque pop. repetitive elements may be wrong. 

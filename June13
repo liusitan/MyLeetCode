@@ -1,0 +1,20 @@
+108 recursion on binary search tree
+110 balanced binary tree the subtrees height differences of each node is smaller or equal to 1. tc O(n), sc O(h)
+111 minimum-dpeth-of-binary-tree
+119 pasclas-ii triangle-ii
+144 preorder traversal
+145 post order traversal
+168 it is using num-1 in division, because I need that to eliminate the remaining ones
+171
+191 tricky bit operation question, hamming coding, count 1 in the style 
+217 contains duplicate
+219 contains duplicate ii
+225 using queue to implement stack: I want an impossible solution
+228 summary ranges
+231 power of two
+232 implement queue using stack
+235 lowest common ancestor in binary tree
+237 delete niode in a linkedlist
+257 binary tree paths
+258 boring exercises
+263 edge case 0
