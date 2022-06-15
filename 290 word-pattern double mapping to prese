@@ -1,0 +1,27 @@
+290 word-pattern double mapping to presesrve the relationship, deal with different length 
+292
+326 is an interesting problem that saying if it is power of three, then it is the divisor of the ....
+268
+338 a very interesting question, count number of 1 in binary for 1 -> n, there is a interesting dp relationshsip that nof1(i) = nof1(i//2) + i%2
+342 delicate method, power of 4, uses num&(num-1) to detect if it is power of 2, use num &0x5555555 to filter out 1. 
+345 rely on coincidence to program, I got the rough logic, but I may miss lots of detailss
+     1. detail on how to do two pointer, use l < r. the reason is that if you use l<=r, you may have the index error
+     2. detail on the when to make a bound check. 21- 25
+     3. read question, identify the lower case bigger case problem. 
+350 
+367
+383
+134 gas-station greedy, key idea:
+If car starts at A and can not reach B. Any station between A and B
+can not reach B.(B is the first station that A can not reach.)
+If the total number of gas is bigger than the total number of cost. There must be a solution.
+389
+392
+401 headachae binary watch problem, using generation would be very hard, it is better to use the iteration, good lesson
+404
+405 convert to Hex, could do it with four bits a time, i am doing it one bit a time, which makes the answer hard.However, I don't know python, that's bearable
+409
+414
+434
+441 binary-search indexing problem 
+448 cache the info in the minus sign, good work!
