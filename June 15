@@ -1,0 +1,20 @@
+455 greedy children, using greedy
+459 repeated-substring-pattern replicate the string and check if the string is  in it. 
+461 hamming distance 
+463 optimization, using top and left edge and result - 2
+476 bit ops 1 xor b = ~b
+482
+485 max consequtieves
+492 Construct the rectangle, same idea, use sqrt
+495
+75 m sort color
+496 next greater element use stack to cache the result good question, I can not use stack
+501 Find mode in binary search
+506 Relative Ranks list trick
+507 Perfect NUmber, use square to optimize
+520 Detect Captial
+530 Minimum abssolute difference
+541 Reverse String II, think through the edge case, when you index an array
+551 Student Attendance Record, use maxCount instead of count
+455 longests-uncommon subsequence, 
+147 insertion sort 
