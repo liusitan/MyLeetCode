@@ -1,0 +1,27 @@
+559 13min
+561 13min maxpairssum convert this problem to min distance problem, genius idea
+563
+566 
+575
+589
+590
+594
+148 takes me forever to finish it but a good lesson is the travesal of a linked
+dummy-> n1->n2->n3
+if I want the second node
+while count < 2
+    count +=1 // took one step
+    cur = cur.next //how many steps
+int this way I can take two steps
+150
+
+598
+599 
+606 10:06 10:16
+617 
+628 10:30 10:36
+637 10:37 10:46
+645
+653
+657
+151

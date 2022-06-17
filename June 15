@@ -2,7 +2,7 @@
 459 repeated-substring-pattern replicate the string and check if the string is  in it. 
 461 hamming distance 
 463 optimization, using top and left edge and result - 2
-476 bit ops 1 xor b = ~b
+476 bit ops 1 xor b = ~b， 0 xorb = b
 482
 485 max consequtieves
 492 Construct the rectangle, same idea, use sqrt
