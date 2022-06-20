@@ -1,0 +1,27 @@
+June19
+6 m
+832
+844 要以block 为单位思考implementation 这样可以deal edge case better
+852
+859
+860
+867
+868
+872
+876
+884
+888
+896 monotonically increasing use inc and dec and merge them using or operation
+213
+216
+220 contains duplicate iii, 1. naive method TC O(kn) SC O(1) 2. binary search tree TC O(nlogk) Sc(k) 
+        3. bucket sort TC: O(n) SC: O(max - min/ t+1)
+    gist: using binary search tree to reduce the lookup time compleixyt, use bucket to manage the "range" relationship
+221 talented dp, I don't know why he can come up something like this. '
+222 count compelte tree, exciting moment https://leetcode.com/problems/count-complete-tree-nodes/discuss/2173695/Binary-Search-using-Path-Code%3A-Python-O(log(n)2)
+229 boore-voyer voting algorithm mainly targeting the pair-out idea, the maximum of pair out should be less than n/k+1
+905
+908 If min(A) + K < max(A) - K, then return max(A) - min(A) - 2 * K
+If min(A) + K >= max(A) - K, then return 0
+
+Because it means your min with +K can at least equal or overshoot your max with -K, thus if you were to actually pick a K for the min and max, you can have the min and max be equal. Or put it the other way, if your min with the biggest K still can't reach your max - the biggest K, then you cannot possibly have 0 as your difference, as you will end up with some sort of difference between your min and max, even if you give both the min and the max the biggest K value possible.
