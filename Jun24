@@ -1,0 +1,22 @@
+Jun24
+941
+942
+944
+230, kth element in bst I thought it would be a good idea to correct value in the minus number, however, it can not accomodate 0
+240 search a 2D matrix II
+274 
+131
+961 N-repeated elementin size 2N Arary, I thought it woas an
+ election problem,but it turns out to be not
+965
+976
+278 perfrect squares a great lesson for dp question,pq[i] = min(pq[i-j]+1,)
+284 xx
+309 best time to buy and sell stock with cooldown, statemachine thinking in dp problem eases the development of dp problem, especially the k*n dp. k is the bumber of the possible state that a particular step could have
+989
+993 ignored the condition that they do not share the sam parent_process
+997
+1002
+310 tree dp, I need to take account up and down, I got the basical idea, but I do not know how to divide it.
+264
+2320 Count Number of Ways to Place Houses, This question is to understand that the both side are not relevant
